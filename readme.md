@@ -113,17 +113,12 @@ git clone https://github.com/matheustrres/mario-kart-js.git
 Enter the project directory:
 
 ```bash
-cd mario-kart-js
+cd Simulador-de-Mario-Kart
 ```
 
-Install the necessary dependencies:
-
-```bash
-npm install
-```
 
 Start the project:
 
 ```bash
-npm start
+node src/index.js
 ```
