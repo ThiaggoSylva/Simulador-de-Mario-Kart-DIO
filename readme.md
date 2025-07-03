@@ -107,7 +107,7 @@
 Clone the project:
 
 ```bash
-git clone https://github.com/matheustrres/mario-kart-js.git
+git clone https://github.com/ThiaggoSylva/Simulador-de-Mario-Kart-DIO
 ```
 
 Enter the project directory:
